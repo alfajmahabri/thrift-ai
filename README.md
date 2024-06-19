@@ -5,6 +5,11 @@ Thrift Ai is a Java-based application designed to help users manage their financ
   - User-Friendly Interface: Easy-to-use GUI for entering income and expenses.
   - Secure Data Storage: Stores financial data securely in a database.
   - AI-Powered Insights: Analyzes spending patterns using AI and offers personalized suggestions.
+# Tech Stack
+  - Java
+  - MySQL
+  - Open Ai API
+  - 
   
 Note :- I m still working on this project
 # Contact
